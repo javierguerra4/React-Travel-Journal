@@ -1,5 +1,6 @@
 export default [
   {
+    id: 1,
     title: "The Narrows",
     location: "Zion National Park",
     googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
