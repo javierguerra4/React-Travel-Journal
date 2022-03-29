@@ -3,9 +3,21 @@ import React from "react";
 export default function Card(props) {
   return (
     <div className="card">
-      <img></img>
-      <div className="card--content"></div>
-      <h1 className="card--title">{props.item.location}</h1>
+      <img src={props.item.imageUrl} className="card--image"></img>
+      <div className="card--content">
+        <p className="card--location">
+          <i class="fa-solid fa-location-dot"></i>
+          {props.item.location}
+        </p>
+        <a href={props.item.googleMapsUrl} target="_blank">
+          {" "}
+          View on Google Maps
+        </a>
+        <h1 className="card--title">{props.item.title}</h1>
+        <h4 className="card--date">{props.item.startDate}</h4>
+        <p className="card--description">{props.item.description}</p>
+      </div>
+      <hr></hr>
     </div>
   );
 }

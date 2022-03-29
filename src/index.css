@@ -12,6 +12,7 @@ code {
     monospace;
 }
 
+/* ********* Start of navbar styling ********** */
 nav {
   width: auto;
   height: 90px;
@@ -37,3 +38,19 @@ nav {
   font-size: 30px;
   color: white;
 }
+
+/* ********* End of navbar styling ********** */
+
+/* ********* Start of card styling ********** */
+.card--image {
+  width: 226px;
+  height: 268px;
+  left: 39px;
+  top: 304px;
+  border-radius: 5px;
+}
+
+.fa-location-dot {
+  color: #f55a5a;
+}
+/* ********* End of card styling ********** */

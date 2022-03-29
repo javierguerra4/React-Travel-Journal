@@ -3,7 +3,7 @@ export default [
     id: 1,
     title: "The Narrows",
     location: "Zion National Park",
-    googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+    googleMapsUrl: "https://goo.gl/maps/RzUDx9GTvHad2Dmc9",
     startDate: "March, 2021",
     endDate: "March, 2021",
     description:
