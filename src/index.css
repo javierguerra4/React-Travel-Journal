@@ -46,6 +46,14 @@ nav {
   display: flex;
   justify-content: center;
 }
+
+.card--content {
+  margin-left: 30px;
+}
+
+.card--line--one {
+  display: flex;
+}
 .card--image {
   width: 250px;
   height: 300px;
@@ -56,5 +64,10 @@ nav {
 
 .fa-location-dot {
   color: #f55a5a;
+}
+
+.google--link {
+  margin-top: 15px;
+  margin-left: 20px;
 }
 /* ********* End of card styling ********** */
