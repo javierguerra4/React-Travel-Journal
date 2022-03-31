@@ -46,6 +46,7 @@ nav {
 .card {
   display: flex;
   justify-content: center;
+  margin-bottom: 20px;
 }
 
 .card--content {
@@ -60,7 +61,7 @@ nav {
   height: 300px;
   left: 39px;
   top: 304px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .fa-location-dot {
