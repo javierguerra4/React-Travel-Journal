@@ -44,7 +44,7 @@ nav {
 /* ********* Start of card styling ********** */
 .card {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
 }
 .card--image {
   width: 250px;
