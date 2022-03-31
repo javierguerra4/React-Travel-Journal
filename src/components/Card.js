@@ -3,7 +3,9 @@ import React from "react";
 export default function Card(props) {
   return (
     <div className="card">
-      <img src={props.item.imageUrl} className="card--image"></img>
+      <a href={props.item.imageUrl} target="_blank">
+        <img src={props.item.imageUrl} className="card--image"></img>
+      </a>
       <div className="card--content">
         <p className="card--location">
           <i class="fa-solid fa-location-dot"></i>
