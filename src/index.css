@@ -42,6 +42,10 @@ nav {
 /* ********* End of navbar styling ********** */
 
 /* ********* Start of card styling ********** */
+.card {
+  display: flex;
+  justify-content: flex-end;
+}
 .card--image {
   width: 250px;
   height: 300px;
