@@ -63,11 +63,28 @@ nav {
 }
 
 .fa-location-dot {
+  margin-top: 17px;
   color: #f55a5a;
 }
 
+.card--location {
+  margin-left: 8px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
 .google--link {
   margin-top: 15px;
   margin-left: 20px;
+}
+
+.card--title {
+  font-size: 50px;
+  margin-top: -10px;
+}
+
+.card--description {
+  max-width: 900px;
+}
+.card--line {
 }
 /* ********* End of card styling ********** */
