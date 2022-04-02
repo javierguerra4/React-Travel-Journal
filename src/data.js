@@ -59,4 +59,28 @@ export default [
     imageUrl:
       "https://images.unsplash.com/photo-1549533948-77ab8a0d9878?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
   },
+  {
+    id: 6,
+    title: "Times Square",
+    location: "New York, New York",
+    googleMapsUrl: "https://goo.gl/maps/mgkpMu2StadJTAr5A",
+    startDate: "July, 2019",
+    endDate: "July, 2019",
+    description:
+      "Times Square is a major commercial intersection, tourist destination, entertainment center, and neighborhood in midtown Manhattan in New York City. It is formed by the junction of Broadway, Seventh Avenue and 42nd Street.",
+    imageUrl:
+      "https://images.unsplash.com/photo-1538970272646-f61fabb3a8a2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=695&q=80",
+  },
+  {
+    id: 7,
+    title: "Union Station",
+    location: "Denver, Colorado",
+    googleMapsUrl: "https://goo.gl/maps/GmF4oUf22jsqKnzZA",
+    startDate: "March, 2019",
+    endDate: "March, 2019",
+    description:
+      "LoDo is a bustling downtown neighborhood known for its trendy shopping and dining scene. String lights illuminate Larimer Square, a historic block with elegant Victorian buildings housing trendy boutiques and sleek restaurants and lounges. Nearby Union Station, a beaux arts-style transport hub, also has cool places to eat and drink, plus summer events that include concerts and a weekly farmers' market. ",
+    imageUrl:
+      "https://images.unsplash.com/photo-1626986050756-633720a6c50d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+  },
 ];
