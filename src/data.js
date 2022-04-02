@@ -23,4 +23,16 @@ export default [
     imageUrl:
       "https://images.unsplash.com/photo-1605558044047-1c44c5f9184c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=736&q=80",
   },
+  {
+    id: 3,
+    title: "Rocky Mountains",
+    location: "Grand Lake Colorado",
+    googleMapsUrl: "https://goo.gl/maps/JuUqjhnDUGxhbuWL7",
+    startDate: "March, 2020",
+    endDate: "March, 2020",
+    description:
+      'The Rocky Mountains stretch some 3,000 miles from British Columbia and Alberta in Canada through Idaho, Montana, Wyoming, Colorado, and down to New Mexico in the U.S. The range offers dramatic wilderness, diverse wildlife and alpine lakes. Colorado’s Rocky Mountain National Park is traversed by numerous hiking trails and the famously scenic Trail Ridge Road, a 48-mile highway that reaches a high point of 12,183"',
+    imageUrl:
+      "https://images.unsplash.com/photo-1640790570881-88fac374bb9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+  },
 ];
