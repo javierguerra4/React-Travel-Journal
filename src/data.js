@@ -35,4 +35,28 @@ export default [
     imageUrl:
       "https://images.unsplash.com/photo-1640790570881-88fac374bb9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
   },
+  {
+    id: 4,
+    title: "Pike Place Market",
+    location: "Seattle, Washington",
+    googleMapsUrl: "https://goo.gl/maps/ZMuNM6ebudak3h1s8",
+    startDate: "May, 2019",
+    endDate: "May, 2019",
+    description:
+      "Pike Place Market is a public market in Seattle, Washington, United States. It opened on August 17, 1907, and is one of the oldest continuously operated public farmers markets in the United States. Overlooking the Elliott Bay waterfront on Puget Sound, it serves as a place of business for many small farmers, craftspeople and merchants. It is named for its central street, Pike Place, which runs northwest from Pike Street to Virginia Street on the western edge of Downtown Seattle. Pike Place Market is Seattle's most popular tourist destination and the 33rd most visited tourist attraction in the world, with more than 10 million annual visitors.",
+    imageUrl:
+      "https://images.unsplash.com/photo-1549092273-8b23dde8ac2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+  },
+  {
+    id: 5,
+    title: "Cloud Gate",
+    location: "Chicago, IL",
+    googleMapsUrl: "https://goo.gl/maps/gw2x1d7qbAzhyNn88",
+    startDate: "November, 2019",
+    endDate: "November, 2019",
+    description:
+      "Cloud Gate is a public sculpture by Indian-born British artist Anish Kapoor, that is the centerpiece of AT&T Plaza at Millennium Park in the Loop community area of Chicago, Illinois. The sculpture and AT&T Plaza are located on top of Park Grill, between the Chase Promenade and McCormick Tribune Plaza & Ice Rink.",
+    imageUrl:
+      "https://images.unsplash.com/photo-1549533948-77ab8a0d9878?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+  },
 ];
